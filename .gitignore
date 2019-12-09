@@ -1,0 +1,3 @@
+*.csv
+.ipynb_checkpoints/
+ttc_headway_analysis_nov_2019.ipynb
