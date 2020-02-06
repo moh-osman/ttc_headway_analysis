@@ -1,0 +1,167 @@
+{
+  "listingId": "Mon Jan 06 2020 04:36:23 GMT+0000 (Coordinated Universal Time)",
+  "weather": [
+    {
+      "conditions": "NA",
+      "temp": "NA",
+      "time": "NA",
+      "wind_chill": "NA"
+    },
+    {
+      "conditions": "Light Snow",
+      "temp": "-1",
+      "time": "23:00",
+      "wind_chill": "-7"
+    },
+    {
+      "conditions": "Light Snow",
+      "temp": "-1",
+      "time": "22:00",
+      "wind_chill": "-7"
+    },
+    {
+      "conditions": "Light Snow",
+      "temp": "-1",
+      "time": "21:00",
+      "wind_chill": "-8"
+    },
+    {
+      "conditions": "Light Snow",
+      "temp": "-1",
+      "time": "20:00",
+      "wind_chill": "-7"
+    },
+    {
+      "conditions": "Light Snow",
+      "temp": "-1",
+      "time": "19:00",
+      "wind_chill": "-6"
+    },
+    {
+      "conditions": "Light Snow",
+      "temp": "0",
+      "time": "18:00",
+      "wind_chill": "-5"
+    },
+    {
+      "conditions": "Mostly Cloudy",
+      "temp": "1",
+      "time": "17:00",
+      "wind_chill": "NA"
+    },
+    {
+      "conditions": "Mostly Cloudy",
+      "temp": "1",
+      "time": "16:00",
+      "wind_chill": "NA"
+    },
+    {
+      "conditions": "Mostly Cloudy",
+      "temp": "1",
+      "time": "15:00",
+      "wind_chill": "NA"
+    },
+    {
+      "conditions": "Mostly Cloudy",
+      "temp": "1",
+      "time": "14:00",
+      "wind_chill": "NA"
+    },
+    {
+      "conditions": "Mostly Cloudy",
+      "temp": "1",
+      "time": "13:00",
+      "wind_chill": "NA"
+    },
+    {
+      "conditions": "Mostly Cloudy",
+      "temp": "0",
+      "time": "12:00",
+      "wind_chill": "NA"
+    },
+    {
+      "conditions": "Mostly Cloudy",
+      "temp": "0",
+      "time": "11:00",
+      "wind_chill": "NA"
+    },
+    {
+      "conditions": "Mostly Cloudy",
+      "temp": "0",
+      "time": "10:00",
+      "wind_chill": "-5"
+    },
+    {
+      "conditions": "Mostly Cloudy",
+      "temp": "-1",
+      "time": "09:00",
+      "wind_chill": "-6"
+    },
+    {
+      "conditions": "Partly Cloudy",
+      "temp": "-3",
+      "time": "08:00",
+      "wind_chill": "-7"
+    },
+    {
+      "conditions": "Mainly Clear",
+      "temp": "-2",
+      "time": "07:00",
+      "wind_chill": "-8"
+    },
+    {
+      "conditions": "Partly Cloudy",
+      "temp": "-1",
+      "time": "06:00",
+      "wind_chill": "-7"
+    },
+    {
+      "conditions": "Mostly Cloudy",
+      "temp": "-1",
+      "time": "05:00",
+      "wind_chill": "-6"
+    },
+    {
+      "conditions": "Mostly Cloudy",
+      "temp": "-1",
+      "time": "04:00",
+      "wind_chill": "-7"
+    },
+    {
+      "conditions": "Mostly Cloudy",
+      "temp": "-1",
+      "time": "03:00",
+      "wind_chill": "-6"
+    },
+    {
+      "conditions": "Mostly Cloudy",
+      "temp": "-1",
+      "time": "02:00",
+      "wind_chill": "-6"
+    },
+    {
+      "conditions": "Mostly Cloudy",
+      "temp": "-1",
+      "time": "01:00",
+      "wind_chill": "-6"
+    },
+    {
+      "conditions": "Mostly Cloudy",
+      "temp": "0",
+      "time": "00:00",
+      "wind_chill": "-7"
+    },
+    {
+      "conditions": "NA",
+      "temp": "NA",
+      "time": "NA",
+      "wind_chill": "NA"
+    },
+    {
+      "conditions": "Partly Cloudy",
+      "temp": "0",
+      "time": "23:00",
+      "wind_chill": "-6"
+    }
+  ]
+}
